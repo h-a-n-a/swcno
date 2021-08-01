@@ -1,0 +1,25 @@
+{
+  "name": "swcno",
+  "version": "0.0.0",
+  "description": "swc-node cli",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h-a-n-a/swcno.git"
+  },
+  "keywords": [
+    "swc",
+    "node",
+    "register",
+    "cli"
+  ],
+  "author": "h-a-n-a <andywangsy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/h-a-n-a/swcno/issues"
+  },
+  "homepage": "https://github.com/h-a-n-a/swcno#readme"
+}
