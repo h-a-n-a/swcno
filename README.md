@@ -1,4 +1,6 @@
-<h1 align='center'>swcno</h1>  
+<h1 align='center'>swcno</h1>
+
+<p align='center'>SWC-driven Node runtime for TypeScript</p>
 
 <p align="center">
     <a href="https://npmjs.com/package/swcno">
