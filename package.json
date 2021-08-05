@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/h-a-n-a/swcno#readme",
   "dependencies": {
-    "@swc-node/register": "^1.3.2",
+    "@swc-node/register": "^1.3.3",
     "cross-spawn": "^7.0.3"
   }
 }
