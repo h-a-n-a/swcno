@@ -1,6 +1,6 @@
 {
   "name": "swcno",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "swcno",
   "main": "index.js",
   "bin": {
